@@ -10,19 +10,17 @@ University of San Francisco's Communications for Analytics <br> MSDS 610 Fall 20
 Logistics
 ----
 
-__Instructor:__ Brian Spiering | [Slack DM](https://msan-usf.slack.com/messages/DAMAXHTL5) (more preferred) | [bspiering@usfca.edu](mailto:bspiering@usfca.edu) (less preferred)  
+__Instructor:__ Brian Spiering   
+__Contact__: [Slack DM](https://msan-usf.slack.com/messages/DAMAXHTL5) (more preferred) | [bspiering@usfca.edu](mailto:bspiering@usfca.edu) (less preferred)  
 __Office hours__: Tuesday 12n-1p  in 522   
-__Grader__: Akshay Tiwari | [Slack DM](https://msan-usf.slack.com/messages/DAM2D14V6) | [TBD@usfca.edu](mailto:TBD@usfca.edu)  
+
+__Grader__: Akshay Tiwari   
+__Contact__: [Slack DM](https://msan-usf.slack.com/messages/DAM2D14V6) | [TBD@usfca.edu](mailto:TBD@usfca.edu)  
 __Office hours__: TBD  
+
 __Website__: [github.com/brianspiering/business-communication](https://github.com/brianspiering/business-communication)    
 __Communciation__: Slack [`#msds_610_2018`](https://msan-usf.slack.com/messages/CBUMPR80J)  
-__Location__: 101 Howard, San Francisco, CA
-__Sections__: 
-
-1. Mondays    at 10:00-11:55   in Room 450  
-2. Mondays    at 1:15-3:05     in Room 451    
-3. Wednesdays at 10:00-11:55   in Room 452  
-4. Wednesdays at 1:15-3:05     in Room 451  
+__Location__: 101 Howard, San Francisco, CA  
 
 ----
 Course Description
@@ -33,26 +31,37 @@ In this course, students will learn essential concepts related to business commu
 Learning Outcomes
 -----
 
-By the end of the course, you should be able to:    
-1. Analyze situations and audiences to apply effective techniques to deliver your message  
-􏰀2. Understand your own communication style and adopt to it to the current context   
-􏰀3. Introduce yourself in a variety of settings   
-􏰀4. Create a LinkedIn profile for future employment  
-􏰀5. Write professional emails  
-􏰀6. Give a short, technical presentation  
+By the end of the course, you should be able to:     
+
+1. Analyze situations and audiences to apply effective techniques to deliver your message
+2. Understand your own communication style and adopt to it to the current context   
+3. Introduce yourself in a variety of settings   
+4. Create a LinkedIn profile for future employment  
+5. Write professional emails  
+6. Give a short, technical presentation  
 
 -----
 Course Schedule
 -----
 
-1.  (08/22 | 08/24) Welcome & How to Introduce Yourself
-2.  (08/27 | 08/29) How to Introduce Yourself Redux
-3.  (09/03 | 09/05) How to LinkedIn 
-4.  (09/10 | 09/12) How to Email 
-5.  (09/17 | 09/19) How to Interview
-6.  (09/24 | 09/26) How to Present 
-7.  (10/01 | 10/03) Student Presentations
-8.  (10/08 | 10/10) Student Presentations Redux
+### Sections
+
+1. Mondays    at 10:00-11:55   in Room 450 * except 1st and 3rd sessions
+2. Mondays    at 1:15-3:05     in Room 451 * except 1st and 3rd sessions
+3. Wednesdays at 10:00-11:55   in Room 452  
+4. Wednesdays at 1:15-3:05     in Room 451  
+
+### Sessions
+
+Format: Date (Sections) Topic  
+1. 08/22 (3 & 4)     | __08/24 (1 & 2)__ Welcome & How to Introduce Yourself 
+2. 08/27 (1 & 2)     | 08/29 (3 & 4)     How to Introduce Yourself Redux
+3. __08/31 (1 & 2)__ | 09/05 (3 & 4)     How to LinkedIn 
+4. 09/10 (1 & 2)     | 09/12 (3 & 4)     How to Email 
+5. 09/17 (1 & 2)     | 09/19 (3 & 4)     How to Interview
+6. 09/24 (1 & 2)     | 09/26 (3 & 4)     How to Present 
+7. 10/01 (1 & 2)     | 10/03 (3 & 4)     Student Presentations
+8. 10/08 (1 & 2)     | 10/10 (3 & 4)     Student Presentations Redux
 
 Grading
 ----
