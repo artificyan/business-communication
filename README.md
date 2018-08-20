@@ -36,8 +36,8 @@ By the end of the course, you should be able to:
 1. Analyze situations and audiences to apply effective techniques to deliver your message
 2. Understand your own communication style and adopt to it to the current context   
 3. Introduce yourself in a variety of settings   
-4. Create a LinkedIn profile for future employment  
-5. Write professional emails  
+4. Create a professional LinkedIn profile 
+5. Write business emails  
 6. Give a short, technical presentation  
 
 -----
@@ -46,22 +46,25 @@ Course Schedule
 
 ### Sections
 
-1. Mondays    at 10:00-11:55   in Room 450 * except 1st and 3rd sessions
-2. Mondays    at 1:15-3:05     in Room 451 * except 1st and 3rd sessions
+1. Mondays    at 10:00-11:55   in Room 450 *<sup>except 1st and 3rd sessions
+</sup>
+2. Mondays    at 1:15-3:05     in Room 451 *<sup>except 1st and 3rd sessions
+</sup>
 3. Wednesdays at 10:00-11:55   in Room 452  
 4. Wednesdays at 1:15-3:05     in Room 451  
 
 ### Sessions
 
-Format: Date (Sections) Topic  
-1. 08/22 (3 & 4)     | __08/24 (1 & 2)__ Welcome & How to Introduce Yourself 
-2. 08/27 (1 & 2)     | 08/29 (3 & 4)     How to Introduce Yourself Redux
-3. __08/31 (1 & 2)__ | 09/05 (3 & 4)     How to LinkedIn 
-4. 09/10 (1 & 2)     | 09/12 (3 & 4)     How to Email 
-5. 09/17 (1 & 2)     | 09/19 (3 & 4)     How to Interview
-6. 09/24 (1 & 2)     | 09/26 (3 & 4)     How to Present 
-7. 10/01 (1 & 2)     | 10/03 (3 & 4)     Student Presentations
-8. 10/08 (1 & 2)     | 10/10 (3 & 4)     Student Presentations Redux
+Format: Number. Date (Sections) | Date (Sections): Topic  
+
+1. 08/22 (3 & 4)     | __08/24 (1 & 2)__: Welcome & How to Introduce Yourself 
+2. 08/27 (1 & 2)     | 08/29 (3 & 4):     How to Introduce Yourself Redux
+3. __08/31 (1 & 2)__ | 09/05 (3 & 4):     How to LinkedIn 
+4. 09/10 (1 & 2)     | 09/12 (3 & 4):     How to Email 
+5. 09/17 (1 & 2)     | 09/19 (3 & 4):     How to Interview
+6. 09/24 (1 & 2)     | 09/26 (3 & 4):     How to Present 
+7. 10/01 (1 & 2)     | 10/03 (3 & 4):     Student Presentations
+8. 10/08 (1 & 2)     | 10/10 (3 & 4):     Student Presentations Redux
 
 Grading
 ----
@@ -81,23 +84,23 @@ Grading
 | A  | ≥ 98%            |  
 | A  | ≥ 93%  and < 98% | 
 | A- | ≥ 90% and < 93%  |
-| B+ |≥ 87% and < 90%   |
+| B+ | ≥ 87% and < 90%  |
 | B  | ≥ 83% and < 87%  |
 | B- | ≥ 80% and < 83%  |
 | C+ | ≥ 77% and < 80%  |
 | C  | ≥ 73% and < 77%  |
-| C- |≥ 70% and < 73%   |
+| C- | ≥ 70% and < 73%   |
 | F  | < 70%            |
 
 Grading standards
 ----
 
-Course grades range from “A” to “F.” The MSDS program considers a grade of "A" to represent exceptional work with respect to both the instructor's expectations and peer student achievements. I consider an "A" grade to be above and beyond what most students achieve. A grade of "B" represents the expected outcome, what is called "competence" in a business setting. A "C" grade represents achievements lower than the instructor's expectations for competence in the subject. A grade of "F" represents little or no work in the course.
+Course grades range from "A" to "F". The MSDS program considers a grade of "A" to represent exceptional work with respect to both the instructor's expectations and peer student achievements. I consider an "A" grade to be above and beyond what most students achieve. A grade of "B" represents the expected outcome, what is called "competence" in a business setting. A "C" grade represents achievements lower than the instructor's expectations for competence in the subject. A grade of "F" represents little or no work in the course.
 
 Attendance
 ----
  
-Attendance is mandatory. It is the responsibility of the student to attend all classes. If you have to miss class, due to sickness or other circumstances, please notify your instructor by Slack in advance. Supporting documents (e.g., doctor’s notes) may be asked for when absences are due to sickness.
+Attendance is mandatory. It is the responsibility of the student to attend all classes. If you have to miss class, due to sickness or other circumstances, please notify your instructor by Slack in advance. Supporting documents may be asked for when absences are due to sickness.
  
 Students with disabilities
 -----
@@ -122,4 +125,4 @@ CAPS provides confidential, free [counseling](https://myusf.usfca.edu/student-he
 Confidentiality, Mandatory Reporting, and Sexual Assault
 -------
 
-For information and resources regarding sexual misconduct or assault visit the [Title IX](https://myusf.usfca.edu/TITLE-IX) coordinator or USFs [Callisto website](http://usfca.callistocampus.org/).
+For information and resources regarding sexual misconduct or assault visit the [Title IX](https://myusf.usfca.edu/TITLE-IX) coordinator or USF's [Callisto website](http://usfca.callistocampus.org/).
