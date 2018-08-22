@@ -15,8 +15,8 @@ __Contact__: [Slack DM](https://msan-usf.slack.com/messages/DAMAXHTL5) (more pre
 __Office hours__: Tuesday 12n-1p  in 522   
 
 __Grader__: Akshay Tiwari   
-__Contact__: [Slack DM](https://msan-usf.slack.com/messages/DAM2D14V6) | [TBD@usfca.edu](mailto:TBD@usfca.edu)  
-__Office hours__: TBD  
+__Contact__: [Slack DM](https://msan-usf.slack.com/messages/DAM2D14V6) | [atiwari2@usfca.edu@usfca.edu](mailto:atiwari2@usfca.edu@usfca.edu)  
+__Office hours__: By appointment  
 
 __Website__: [github.com/brianspiering/business-communication](https://github.com/brianspiering/business-communication)    
 __Communciation__: Slack [`#msds_610_2018`](https://msan-usf.slack.com/messages/CBUMPR80J)  
@@ -46,12 +46,10 @@ Course Schedule
 
 ### Sections
 
-1. Mondays    at 10:00-11:55   in Room 450 *<sup>except 1st and 3rd sessions
-</sup>
-2. Mondays    at 1:15-3:05     in Room 451 *<sup>except 1st and 3rd sessions
-</sup>
-3. Wednesdays at 10:00-11:55   in Room 452  
-4. Wednesdays at 1:15-3:05     in Room 451  
+1. Mondays    at 10:00-11:55   in Room 450 *<sup>except 1st and 3rd sessions</sup>  
+2. Mondays    at 1:15-3:05     in Room 451 *<sup>except 1st and 3rd sessions</sup>  
+3. Wednesdays at 10:00-11:55   in Room 452    
+4. Wednesdays at 1:15-3:05     in Room 451   
 
 ### Sessions
 
@@ -69,15 +67,17 @@ Format: Number. Date (Sections) | Date (Sections): Topic
 Grading
 ----
 
-| Item | Weight  |  
-|:-------|:------:|
-| Professionalism            | 25% | 
-| Assignment 1: Your Story   | 10% |
-| Assignment 2: LinkedIn     | 10% |
-| Assignment 3: Email        | 10% |
-| Assignment 4: Interviewing | 10% |
-| Assignment 5: Meetup       | 10% |
-| Final Presentation         | 25% |
+| Item | Weight  | Due Date |
+|:-------|:------:|:------:|
+| Professionalism            | 25% | Everyday       |
+| Assignment 1: Your Story   | 10% | 09/02 at 8p    |
+| Assignment 2: LinkedIn     | 10% | 09/16 at 8p    |
+| Assignment 3: Email        | 10% | 09/23 at 8p    |
+| Assignment 4: Interviewing | 10% | 09/30 at 8p    |
+| Assignment 5: Meetup       | 10% | 10/07 at 8p    |
+| Final Presentation         | 25% | session 7 or 8 |
+
+__No late assignments are accepted.__
 
 | Grade | Final Percentage   |  
 |:-------:|:------:|
@@ -89,7 +89,7 @@ Grading
 | B- | ≥ 80% and < 83%  |
 | C+ | ≥ 77% and < 80%  |
 | C  | ≥ 73% and < 77%  |
-| C- | ≥ 70% and < 73%   |
+| C- | ≥ 70% and < 73%  |
 | F  | < 70%            |
 
 Grading standards
