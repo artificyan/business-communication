@@ -15,4 +15,4 @@ Before the start of class, please complete the following:
 
 1. Rough draft of written responses for _Your Story_. See assignments folder.
 
-1. Bring your mobile phone and be prepared to be recorded. The videos will be private, just for feedback purposes.
+1. Bring your phone and be prepared to be recorded. The videos will be private, just for feedback purposes.

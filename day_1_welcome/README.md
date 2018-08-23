@@ -1,4 +1,4 @@
 Prework
 ======
 
-None
+- Bring notetaking apparatuses (preferably paper and pencil)

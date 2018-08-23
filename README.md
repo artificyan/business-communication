@@ -12,7 +12,7 @@ Logistics
 
 __Instructor:__ Brian Spiering   
 __Contact__: [Slack DM](https://msan-usf.slack.com/messages/DAMAXHTL5) (more preferred) | [bspiering@usfca.edu](mailto:bspiering@usfca.edu) (less preferred)  
-__Office hours__: Tuesday 12n-1p  in 522   
+__Office hours__: Tuesday 12n-1p  in 522 & By Appointment   
 
 __Grader__: Akshay Tiwari   
 __Contact__: [Slack DM](https://msan-usf.slack.com/messages/DAM2D14V6) | [atiwari2@usfca.edu@usfca.edu](mailto:atiwari2@usfca.edu@usfca.edu)  
@@ -33,12 +33,12 @@ Learning Outcomes
 
 By the end of the course, you should be able to:     
 
-1. Analyze situations and audiences to apply effective techniques to deliver your message
-2. Understand your own communication style and adopt to it to the current context   
-3. Introduce yourself in a variety of settings   
-4. Create a professional LinkedIn profile 
-5. Write business emails  
-6. Give a short, technical presentation  
+1. Analyze situations and audiences to apply effective techniques to deliver your message.
+2. Understand your own communication style and adopt to it to the current context.   
+3. Introduce yourself in a variety of settings.   
+4. Create a professional LinkedIn profile.   
+5. Write business emails.    
+6. Give a short, technical presentation.    
 
 -----
 Course Schedule
@@ -75,7 +75,7 @@ Grading
 | Assignment 3: Email        | 10% | 09/23 at 8p    |
 | Assignment 4: Interviewing | 10% | 09/30 at 8p    |
 | Assignment 5: Meetup       | 10% | 10/07 at 8p    |
-| Final Presentation         | 25% | session 7 or 8 |
+| Final Presentation         | 25% | Session 7 or 8 |
 
 __No late assignments are accepted.__
 
