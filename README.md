@@ -15,7 +15,7 @@ __Contact__: [Slack DM](https://msan-usf.slack.com/messages/DAMAXHTL5) (more pre
 __Office hours__: Tuesday 12n-1p in 522 & By Appointment   
 
 __Grader__: Akshay Tiwari   
-__Contact__: [Slack DM](https://msan-usf.slack.com/messages/DAM2D14V6) | [atiwari2@usfca.edu@usfca.edu](mailto:atiwari2@usfca.edu@usfca.edu)  
+__Contact__: [Slack DM](https://msan-usf.slack.com/messages/DAM2D14V6) | [atiwari2@usfca.edu](mailto:atiwari2@usfca.edu)  
 __Office hours__: By appointment  
 
 __Website__: [github.com/brianspiering/business-communication](https://github.com/brianspiering/business-communication)    
@@ -47,27 +47,28 @@ Course Schedule
 ### Sections
 
 1. Mondays    at 10:00-11:55   in Room 450<sup>§</sup>  
-2. Mondays    at 1:15-3:05     in Room 451<sup>§</sup>    
+2. Mondays    at 1:15-3:05     in Room 451<sup>§‡</sup>    
 3. Wednesdays at 10:00-11:55   in Room 452    
 4. Wednesdays at 1:15-3:05     in Room 451   
 
-§ except 1st and 3rd sessions 
+§ except 1st and 3rd sessions for the missing Mondays   
+‡ __and__ 6th session for Pitch Day   
 
 ### Sessions
 
 Format: Number. Date (Sections) | Date (Sections): Topic  
 
-1. 08/22 (3 & 4)                 | __08/24 (1 & 2<sup>♱</sup>)__: Welcome & How to Introduce Yourself 
-2. 08/27 (1 & 2)                 | 08/29 (3 & 4):     How to Introduce Yourself Redux
-3. __08/31 (1 & 2<sup>♱</sup>)__ | 09/05 (3 & 4):     How to LinkedIn 
-4. 09/10 (1 & 2)                 | 09/12 (3 & 4):     How to Email 
-5. 09/17 (1 & 2)                 | 09/19 (3 & 4):     How to Interview
-6. 09/24 (1 & 2)                 | 09/26 (3 & 4):     How to Present 
-7. 10/01 (1 & 2)                 | 10/03 (3 & 4):     Student Presentations
-8. 10/08 (1 & 2)                 | 10/10 (3 & 4):     Student Presentations Redux
+1. 08/22 (3 & 4)                 | __08/24 (1 & 2<sup>♱</sup>)__:         Welcome & How to Introduce Yourself 
+2. 08/27 (1 & 2)                 | 08/29 (3 & 4):                         How to Introduce Yourself Redux
+3. __08/31 (1 & 2<sup>♱</sup>)__ | 09/05 (3 & 4):                         How to LinkedIn 
+4. 09/10 (1 & 2)                 | 09/12 (3 & 4):                         How to Email 
+5. 09/17 (1 & 2)                 | 09/19 (3 & 4):                         How to Interview
+6. 09/24 (1    )                 | 09/26 (3 & 4) | 09/28 (2<sup>‡</sup>): How to Present 
+7. 10/01 (1 & 2)                 | 10/03 (3 & 4):                         Student Presentations
+8. 10/08 (1 & 2)                 | 10/10 (3 & 4):                         Student Presentations Redux
 
-♱ 2:30p - 4:15pm
-
+♱ 2:30p - 4:15pm  
+‡ 3p - 4:50p  
 
 Grading
 ----
