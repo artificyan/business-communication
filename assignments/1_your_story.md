@@ -1,8 +1,8 @@
 Your Story
 ========
 
-Due Date: See Syllabus & Canvas   
-Value: 10% of final grade
+Due Date: See Syllabus & Canvas    
+Value: 10 points / 10% of final grade   
 
 We have been talking about a short, informal oral communication form dubbed _Your Story_. Over the next few months, you will be meeting many new people requiring you to repeatedly answer similar questions about yourself. The first step toward feeling comfortable and sounding interesting in these situations is to have a well-rehearsed story.
 
@@ -42,14 +42,14 @@ Grading Rubric
 
 Please bring two printed copies of the assignment to class, making sure to put your name on each. You must write down answers to all of the questions and be prepared to answer them in class, but there is no need to memorize them. You may use your paper as a crutch, but the reading should be natural. Grades for this assignment will be based upon the following:
 
-1. In-class responses (3 points): 
+1. In-class responses (4 points): 
     
-    - Volume
-    - Speed
-    - Eye-Contact 
-    - Time
+    - Volume (1 point)
+    - Speed (1 point)
+    - Eye-Contact (1 point)
+    - Time (1 point)
 
-2. Written responses (4 points):
+2. Written responses (3 points):
     
     - For each situation, did you answer the 3 questions?
     - For each situation, do your stories have the following qualities?
