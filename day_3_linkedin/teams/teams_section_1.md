@@ -1,25 +1,25 @@
 |     | Team 0 |     |     |
 |:----:|:---:|:---:|:---:| 
-|  | Alan | Ran | |
-|  | Anastasia | Scott | |
+|  | Shulun | Neha | |
+|  | Brian C | Nina | |
 
 |     | Team 1 |     |     |
 |:----:|:---:|:---:|:---:| 
-|  | Viviana | Xiao | |
-|  | Brian | Gokul | |
+|  | Brian W | Viviana | |
+|  | Lance | Gokul | |
 
 |     | Team 2 |     |     |
 |:----:|:---:|:---:|:---:| 
-|  | Anna | Rebecca | |
-|  | Chong | Neha | |
+|  | Chong | Anastasia | |
+|  | Ran | Xiao | |
 
 |     | Team 3 |     |     |
 |:----:|:---:|:---:|:---:| 
-|  | Shulun | Nina | |
-|  | Victoria | Julia | |
+|  | Yixin | Victoria | |
+|  | Julia | Scott | |
 
 |     | Team 4 |     |     |
 |:----:|:---:|:---:|:---:| 
-|  | Yixin | Lance | |
-|  | Wei | Xi | Brian |
+|  | Rebecca | Wei | |
+|  | Alan | Xi | Anna |
   
