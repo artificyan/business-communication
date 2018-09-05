@@ -1,7 +1,7 @@
 Lightning Talk
 ------
 
-In the lieu of a final exam, there will be a final presentation. It will be a 5 minute "Lightning"-style talk. [Lightning talks](https://en.wikipedia.org/wiki/Lightning_talk) are popular at tech conferences and Meetups. They are great for the presenter (a lower stakes method of public speaking) and the audience (convey a breadth information very quickly). 
+In the lieu of a final exam, there will be a final presentation. It will be a 5 minute "Lightning"-style talk. [Lightning talks](https://en.wikipedia.org/wiki/Lightning_talk) are popular at tech conferences and Meetups. They are beneficial for the presenter (a lower stakes method of public speaking) and the audience (convey a breadth information very quickly). 
 
 Steps:
 ------
@@ -10,7 +10,7 @@ Steps:
 
 2. Get instructor feedback (i.e., approval). We'll work together to make sure the topic is relevant and scoped within the time limit.
 
-3. Create presentation. Most people will you use a slide deck. You can also live-code, demo, whiteboard, or use props.
+3. Create presentation. Most people will use a slide deck. You can also live-code, demo, whiteboard, or use props.
 
 4. Practice
 
@@ -31,7 +31,7 @@ Giving and receiving feedback is important this class. Part of the requirement f
 Grading
 -----
 
-75% - In-class presentation
+75% - In-class presentation  
 25% - Written reflection on feedback
 
 Rubric
