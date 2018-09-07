@@ -1,29 +1,25 @@
 |     | Team 0 |     |     |
 |:----:|:---:|:---:|:---:| 
-|  | Yuhan | Shivee | |
-|  | Ramkumar | Michelle | |
+|  | Wenkun | Harrison | |
+|  | Sankeerti | Li | |
 
 |     | Team 1 |     |     |
 |:----:|:---:|:---:|:---:| 
-|  | Bowen | Hongdou | |
-|  | Nan | Donya | |
+|  | Hyungkyu | Zhe | |
+|  | Maximillian | Ramkumar | |
 
 |     | Team 2 |     |     |
 |:----:|:---:|:---:|:---:| 
-|  | Li | Harrison | |
-|  | Maximillian | Liying | |
+|  | Nan | Miguel | |
+|  | Bowen | Louise | |
 
 |     | Team 3 |     |     |
 |:----:|:---:|:---:|:---:| 
-|  | Zhe | Edward | |
-|  | Benjamin | Adam | |
+|  | Marwa | Shivee | |
+|  | Katja | Benjamin | |
 
 |     | Team 4 |     |     |
 |:----:|:---:|:---:|:---:| 
-|  | Miguel | Marwa | |
-|  | Sankeerti | Katja | |
-
-|     | Team 5 |     |     |
-|:----:|:---:|:---:|:---:| 
-|  | Hyungkyu | Wenkun | Louise |
+|  | Liying | Edward | |
+|  | Hongdou | Donya | Yuhan |
   
