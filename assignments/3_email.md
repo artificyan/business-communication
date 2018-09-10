@@ -1,6 +1,10 @@
 Email
 ========
 
+Due Date: See Syllabus & Canvas    
+Value: 10 points / 10% of final grade   
+
+
 In this assignment you will be writing emails given the situation described below. Before writing each email, evaluate the audience, intention and how the medium effects the effectiveness of your communication.
 
 Please bring 2 copies to class.
@@ -53,17 +57,17 @@ While advertising isn’t in your domain, you are familiar enough with the datab
 
 A week later, you receive the following email (note that you are me@candycrack.ai) from your boss, John Stamos, the director of analytics at CandyCrack. This email also includes Kathleen, who is the VP of Marketing and Kim, Benny and Hunter who are the other data analysts under John. How will you respond to this email?
 
-> From: John Stamos <john@candycrack.ai>
-> Date: Wed, Sep 16, 2018 at 11:55 PM
-> Subject: FW: Click-through Rates
-> To: me@candycrack.ai, kim@candycrack.ai, benny@candycrack.ai, Hunter@candycrack.ai
-> ?
-> ———- Forwarded message ———- From: kathleen <kathy@candycrack.ai> Date: Wed, Sep 16, 2015 at 2:05 PM Subject: > Click-through Rates
-> To: John Stamos <John@candycrack.ai>
-> John –
-> I’ve been dealing with a bit of an issue. I wanted to let you know that I don’t appreciate your team spreading misinformation regarding our advertising efforts. Turns out one of your data analysts has been telling people that our cross-promotional efforts are only half as effective as the advertisements that we show for other titles. I’m not sure where this information came from and what, so-called “data” your data-team is using, but the marketing analysts have spent significant amounts of time balancing a number of important factors to optimize, such as how much we get paid for each advertisements. The last thing I need is another data analyst undercutting their work behind their back.
-> If you could fix your team, it would be appreciated.
-> Kathy.
+> From: John Stamos <john@candycrack.ai>  
+> Date: Wed, Sep 16, 2018 at 11:55 PM  
+> Subject: FW: Click-through Rates  
+> To: me@candycrack.ai, kim@candycrack.ai, benny@candycrack.ai, hunter@candycrack.ai  
+> ?  
+> ———- Forwarded message ———- From: kathleen <kathy@candycrack.ai> Date: Wed, Sep 16, 2015 at 2:05 PM Subject: > Click-through Rates  
+> To: John Stamos <John@candycrack.ai>  
+> John –  
+> I’ve been dealing with a bit of an issue. I wanted to let you know that I don’t appreciate your team spreading misinformation regarding our advertising efforts. Turns out one of your data analysts has been telling people that our cross-promotional efforts are only half as effective as the advertisements that we show for other titles. I’m not sure where this information came from and what, so-called “data” your data-team is using, but the marketing analysts have spent significant amounts of time balancing a number of important factors to optimize, such as how much we get paid for each advertisements. The last thing I need is another data analyst undercutting their work behind their back.  
+> If you could fix your team, it would be appreciated.  
+> Kathy.  
 
 4) PIP: Performance Improvement Plan
 ------
@@ -71,9 +75,9 @@ A week later, you receive the following email (note that you are me@candycrack.a
 Last year you hired a junior data analyst, Bobby, straight out of undergrad. Like a lot of people in his position, he isn’t the most professional employee. In particular:
 
 1. He is the last one to leave each work happy hour and comes in obviously hung over the next day
-2. He has often missed her team’s daily 10 AM scrum, instead showing up around 11AM
+2. He has often missed her team’s daily 10 am scrum, instead showing up around 11 am
 3. He has expressed significant negativity regarding both the direction of the company and the product he is working on
-4. He has obvious “favorites”: People he will work hard for, but if you aren’t one of them, the work product is on sub-standard quality
+4. He has obvious "favorites": People he will work hard for, but if you aren’t one of them, the work product is on sub-standard quality
 
 While you have been fairly hands-off with him, the interactions that he is having with others has gotten HR’s attention. After talking it over with Tom, the director of HR, you’ve decided to implement a Performance Improvement Plan or “PIP” with Bobby. The purpose of the PIP is to make it clear that if his behavior doesn’t change that he won’t have a job. The downside of this is that Bobby, when focused, has proven to be a creative and smart thinker. The value that he brings is being undercut by this behavior, so you need to correct it.
 

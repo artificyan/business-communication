@@ -9,4 +9,8 @@ Before the start of class, please complete the following:
     - What did the speaker do well?
     - What could the speaker do to improve?
 
-2. TBD
+1. Watch the following videos:
+    - [How to answer behavioural interview questions](https://youtu.be/sXQdlV5kg58)
+    - [Behavioural interview tips for software engineers](https://www.youtube.com/watch?v=5gxNDGPE3Vg)
+
+1. Bring rough drafts of _Assignment #4 Interviewing_
