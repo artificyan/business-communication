@@ -4,25 +4,22 @@ Email
 Due Date: See Syllabus & Canvas    
 Value: 10 points / 10% of final grade   
 
-
-In this assignment you will be writing emails given the situation described below. Before writing each email, evaluate the audience, intention and how the medium effects the effectiveness of your communication.
-
-Please bring 2 copies to class.
+In this assignment, you will write 4 emails based given the situations described below. Before writing each email, evaluate the audience, intention, and how the medium effects the effectiveness of your communication.
 
 Guidelines:
 -----
 
-For this assignment, you will need to write an email for each situation, making sure to name who the email is being sent to. You must also, for each email, write a short paragraph reflecting why you choose to write what you did. In particular, evaluate your communication, paying particular attention to any risks that sending the email poses.
+For each email:
+
+1. List who the email is being sent to
+1. Subject line
+1. The body of the email
+1. A short paragraph reflecting why you choose to write what you did. In particular, evaluate your communication, paying particular attention to any risks that sending the email poses.
 
 For the reflection paragraph describing your communication, please answer the following questions: 
 
-- “What risks are you incurring by sending this email?” 
-- “Are there other strategies I could consider in this situation?” 
-
-Grading Rubric (10 points)
--------
-
-To receive full credit, each email must be well-written and in-line with the standards set out in class. Pay particular attention to spelling and grammar, as any errors along this dimensions will result in a significant grade deduction. There will be equal weight to the email and the reflection.
+- What risks are you incurring by sending this email?
+- Are there other strategies or methods of communication I could consider in this situation?
 
 Prompts:
 -----
@@ -62,7 +59,8 @@ A week later, you receive the following email (note that you are me@candycrack.a
 > Subject: FW: Click-through Rates  
 > To: me@candycrack.ai, kim@candycrack.ai, benny@candycrack.ai, hunter@candycrack.ai  
 > ?  
-> ———- Forwarded message ———- From: kathleen <kathy@candycrack.ai> Date: Wed, Sep 16, 2015 at 2:05 PM Subject: > Click-through Rates  
+> ———- Forwarded message ———-   
+> From: kathleen <kathy@candycrack.ai> Date: Wed, Sep 16, 2015 at 2:05 PM Subject: > Click-through Rates  
 > To: John Stamos <John@candycrack.ai>  
 > John –  
 > I’ve been dealing with a bit of an issue. I wanted to let you know that I don’t appreciate your team spreading misinformation regarding our advertising efforts. Turns out one of your data analysts has been telling people that our cross-promotional efforts are only half as effective as the advertisements that we show for other titles. I’m not sure where this information came from and what, so-called “data” your data-team is using, but the marketing analysts have spent significant amounts of time balancing a number of important factors to optimize, such as how much we get paid for each advertisements. The last thing I need is another data analyst undercutting their work behind their back.  
@@ -82,3 +80,43 @@ Last year you hired a junior data analyst, Bobby, straight out of undergrad. Lik
 While you have been fairly hands-off with him, the interactions that he is having with others has gotten HR’s attention. After talking it over with Tom, the director of HR, you’ve decided to implement a Performance Improvement Plan or “PIP” with Bobby. The purpose of the PIP is to make it clear that if his behavior doesn’t change that he won’t have a job. The downside of this is that Bobby, when focused, has proven to be a creative and smart thinker. The value that he brings is being undercut by this behavior, so you need to correct it.
 
 Because of a number of legal issues around employee behavior, Tom has given the first talk to him, informing him that he is on PIP and outlining the reasons why. As his direct supervisor, it is your job to document, in email, the specifics regarding how he needs to improve, making sure to BCC Tom on that email. After this email has been sent, you will print it out and go over it with him in a 1-to-1 meeting.
+
+Grading Rubric (10 points)
+-------
+
+1. Format & Structure (2 points)
+    
+    - Brief and clear subject lines
+    - Appropriately professional salutation
+    - Appropriately professional signature 
+    - No formatting mistakes
+
+1. Content (2 points)
+
+    - Brief and clear message 
+    - Organized and logical
+    - Self-contained, all references are explained within the context
+
+1. Tone (2 points)
+
+    - Appropriately professional tone for the given context
+    - Friendly and personable
+    - Not overly casual for a professional e-mail
+
+1. Language (2 points)
+
+    - No undefined acronyms
+    - No slang
+    - No texting abbreviations (e.g., lol, 2f4u)
+    - No jargon
+
+1. Reflection (2 points)
+
+    - Address A.I.M. model
+    - List possible risks
+    - Brainstorm other methods to accomplish intention 
+
+Automatic loss of points:
+
+- -2 Any spelling or grammar errors
+- -5 Major spelling or grammar errors
