@@ -10,6 +10,7 @@ Before the start of class, please complete the following:
     - What could the speaker do to improve?
 
 1. Watch the following videos:
+    - [Answering Any Interview Question: Three Vital Steps to Success](https://www.youtube.com/watch?v=vlWyd-NjqQs)
     - [How to answer behavioural interview questions](https://youtu.be/sXQdlV5kg58)
     - [Behavioural interview tips for software engineers](https://www.youtube.com/watch?v=5gxNDGPE3Vg)
 
