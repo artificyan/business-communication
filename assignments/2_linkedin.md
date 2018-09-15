@@ -4,12 +4,9 @@ LinkedIn Profile
 Due Date: See Syllabus & Canvas    
 Value: 10 points / 10% of final grade   
 
-
 For this assignment you will work, in groups of 3-4, on your LinkedIn profiles. To complete the assignment, please go through, as a group, each of your profiles and verify that they are error-free and adhere to the best practices described in class.
 
 [This checklist](https://university.linkedin.com/content/dam/university/global/en_US/site/pdf/LinkedIn_Sample_Profile_onesheet-David.pdf) can get you started.
-
-
 
 Grading Rubric (10 points)
 -------
@@ -38,9 +35,18 @@ Given that positive and negative points are independent, you get all positive po
     - Concise & Specific
     - 1-3 sentences / bullets for each item
 
-1. Summary, Education, & Everything Else (2 points)
+1. Education & Everything Else (2 points)
 
 1. Overall Aesthetic (2 points)
+
+Bonus Points for Summary (2 points):
+
+    - Individual (about you personally, uses the first person voice)
+    - Specific (minimize generalities) 
+    - Meaningful (does not contain platitudes or clichés)
+    - Relevant to current situation and near-term aspirations
+    - Used story-telling framework (e.g., funnel or past-present-future)
+    - Short enough not to require clicking to "Show more ▼"
 
 Automatic loss of points:
 
