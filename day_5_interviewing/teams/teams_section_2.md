@@ -5,8 +5,8 @@
 
 |     | Team 1 |     |     |
 |:----:|:---:|:---:|:---:| 
-|  |Mundy|Evan C|
-|  |Tian|Prakhar|
+|  |Prakhar|Evan C|
+|  |Tian||
 
 |     | Team 2 |     |     |
 |:----:|:---:|:---:|:---:| 
