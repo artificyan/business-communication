@@ -1,14 +1,14 @@
 Lightning Talk
 ------
 
-In the lieu of a final exam, there will be a final presentation. It will be a 5 minute "Lightning"-style talk. [Lightning talks](https://en.wikipedia.org/wiki/Lightning_talk) are popular at tech conferences and Meetups. They are beneficial for the presenter (a lower stakes method of public speaking) and the audience (convey a breadth information very quickly). 
+In the lieu of a final exam, there will be a final presentation. It will be a 5 minute "Lightning"-style talk. [Lightning talks](https://en.wikipedia.org/wiki/Lightning_talk) are popular at tech conferences and Meetups. They are beneficial for the presenter (a lower stakes method of public speaking) and the audience (convey a breadth information very quickly). It is also a common format to share / demo your work to gain greater recognition within an organization.
 
 Steps:
 ------
 
-1. Pick a technical topic that you are passionate about. It could be a algorithm, technique, or a package from your favorite programming framework. The topic should be data related.
+1. Pick a technical topic that you are passionate about. It could be a algorithm, technique, a package from your favorite programming framework, or a piece of software. The topic should be data related.
 
-2. Get instructor feedback (i.e., approval). We'll work together to make sure the topic is relevant and scoped within the time limit.
+2. Get instructor feedback (i.e., approval). We'll work together to make sure the topic is relevant and scoped within the time limit. Sign up on [Google Spreadsheet](https://docs.google.com/spreadsheets/u/1/d/1JQa2HOo4qdgkopUYnHEbwmhMXCNoE8ulKKbeIUOklfk/edit?usp=drive_web&ouid=115223198521972982130)
 
 3. Create presentation. Most people will use a slide deck. You can also live-code, demo, whiteboard, or use props.
 
