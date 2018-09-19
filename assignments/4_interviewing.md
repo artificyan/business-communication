@@ -1,6 +1,9 @@
 Interviewing
 ========
 
+Due Date: See Syllabus & Canvas    
+Value: 10 points / 10% of final grade   
+
 For this assignment, you will work in groups of 4 or more. This assignment has a number of different parts, so make sure to coordinate everything (earlier is better) so as to not run out of time.
 
 -----
@@ -77,21 +80,6 @@ Once the interview is complete, stop the recording. Take a 5 minute break to wal
 1. What could be improved?
 1. Give the __single__ most important thing to improve. [Radical Candor](https://www.youtube.com/watch?v=f-Tcr0T9Tyw) is a good approach.
 
-Deliverables:
-------
-
-As a group:
-
-1. Individual statements (e.g., Persona and Selling Points) from each group member with the company name and job title of their desired job.
-1. All interview plans.
-1. Each interviewee should write 1-2 paragraph reflection that synthesized all their feedback.
-
-Grading Rubric
------
-
-- Writing. Clear and simple devoid of spelling or grammar errors.
-- How serious you took this exercise. Videos which exhibit breaking out of character and lazy participation will negatively impact everyone in the group's grade.
-- Quality of recording. Poor sound / video will be penalized.
 
 Hints
 -----
@@ -104,3 +92,63 @@ Hints
 
 - Bad feedback: “He spoke too much about his project.”
 - Better feedback: “During one of his answers, he started rambling on about the specific details of his project. He needs to have a better summary ready to answer this question. Then check-in with the interviewer about continuing.”
+
+Deliverables:
+------
+
+As a group:
+
+1. Individual statements (e.g., Persona and Selling Points) from each group member with the company name and job title of their desired job.
+1. All interview plans.
+1. Each interviewee should write 1-2 paragraph reflection that synthesized all their feedback.
+
+Grading Rubric (10 points)
+-------
+
+1. Relevant Job Posting (1 point)
+
+    - Related to MSDS degree
+    - Not too senior
+
+1. Individual statements (2 points)
+
+    - Job relevant persona
+    - Individual and specific selling points
+    - Company research
+
+2. Interview plans (2 points)
+
+    - Organized and logical
+    - Appropriately professional
+
+3. Interview Answers (2 points)
+
+    - Appropriately professional
+    - Succinct 
+    - Interesting 
+    - Structured (CAR, Funnel, Past-Present-Future)
+    - Friendly and personable
+    - Not overly casual
+    - Nonverbal signals emphasized verbal message
+    - No nervous mannerisms
+
+4. Video (1 points) 
+
+    - Clear sound and picture.
+    - Both people in frame.
+    - Both people stayed in character
+    - Both people taking it seriously
+
+5. Reflection (2 points)
+
+    - Honest 
+    - Self aware
+    - Not too lenient
+    - Not too harsh
+    - List mitigation strategies 
+
+Automatic loss of points:
+
+- -2 Any spelling or grammar errors
+- -5 Major spelling or grammar errors
+
