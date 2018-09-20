@@ -1,6 +1,9 @@
 Meetup
 ========
 
+Due Date: See Syllabus & Canvas    
+Value: 10 points / 10% of final grade   
+
 To complete this assignment, you’ll need to find a Meetup in the Data Science space that occurs within the next few weeks that has content; something is being presented, not just social event. You’ll need to attend this Meetup with 3 to 5 other students from this class. You'll introduce yourself to at least 2 non-USF people in front of your USF classmates.
 
 Requirements:
@@ -44,6 +47,26 @@ Guidelines:
 Grading Rubric (10 points)
 -------
 
-- Well-written, organized paper that answers the questions above.
-- Error free - Any spelling or grammar error will negatively impact your grade.
-- Failure to be self-aware or self-critical will result in lower grade.
+1. Attend relevant Meetup (3 point)
+
+    - Data Science related
+
+1. Analysis of introductions (4 points)
+    
+    - Address all questions from above
+    - Honest 
+    - Self aware
+    - Not too lenient
+    - Not too harsh
+    - Self aware 
+
+1. Analysis of presentations (3 points)
+
+    - Address all questions from above
+    - Specific points
+    - Organized and logical
+
+Automatic loss of points:
+
+- -2 Any spelling or grammar errors
+- -5 Major spelling or grammar errors

@@ -71,6 +71,6 @@ Please bring two printed copies of the assignment to class, making sure to put y
 
     3.  Now that you have done this once, what would you change?
 
-	This should be no more than 1 page, though I expect it to be around one-half a page (double-spaced).
+    This should be no more than 1 page, though I expect it to be around one-half a page (double-spaced).
 
 The deliverable is a sharable link to a Google Doc that contains your written responses, a link to a YouTube video of you answering a single question, and your reflection.
