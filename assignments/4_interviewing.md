@@ -98,9 +98,14 @@ Deliverables:
 
 As a group:
 
-1. Individual statements (e.g., Persona and Selling Points) from each group member with the company name and job title of their desired job.
-1. All interview plans.
-1. Each interviewee should write 1-2 paragraph reflection that synthesized all their feedback.
+1. Each group member individually:
+    1. Company name, job title, and job posting link
+    1. Persona 
+    1. Selling Points
+1. Interviews formated as INTERVIEWER -> INTERVIEWEE:
+    1. Each interview plan
+    1. Each video link
+1. Each group member's individual reflection synthesizing all the feedback.
 
 Grading Rubric (10 points)
 -------
