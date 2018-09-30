@@ -37,7 +37,17 @@ Grading
 Rubric
 -----
 
-TBD
+See `final_presentation_rubric.md`. 
+
+Specific elements can be assigned one of the following:
+
+- ++: added expectational value
+- +: added value
+- -: subtracted value
+- --: subtracted expectational value
+- NA: Not Applicable 
+
+Specific elements will be rolled up into a numerical score for each section. Each section score will be summed for a total score. Total scores will be proportional to final percentage on Canvas but not be direct mapping (i.e., there might a slight curve).
 
 Examples
 ------
