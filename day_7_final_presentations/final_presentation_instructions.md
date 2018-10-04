@@ -56,6 +56,8 @@ Examples
 
 1. [How to Go Viral Without Really Trying](https://www.youtube.com/watch?v=nDnmeGgd8qc) 
 
+1. [The user is drunk](https://www.youtube.com/watch?v=r2CbbBLVaPk)
+
 1. [PyData London 2018 Lightning Talks](https://www.youtube.com/watch?v=pmpyUakrjaI)
 
 1. [A bunch of JavaScript talks](https://www.youtube.com/watch?v=Pjy0zhcvpD8&list=TLNMJBFTElLxcyNjAxMjAxNg)
