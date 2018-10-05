@@ -20,12 +20,12 @@ Requirements:
         - Did you stuff free food in your face and fail to make a good impression? 
     1. How would you have done it differently?
 
-4. Each group must turn-in a write-up (minimum 1 page per person), which answers the following question:
+4. Each group must turn-in a collective write-up that addresses the following:
 
-    1. Introductions:
-        - For each group member, what they did well and what they could have done better?
-        - If you could do it all over, what would each of you have done differently?
-    1. Meetup Presentation of the:
+    1. Each individual's introductions:
+        - What did the person do well and what the person could have done better?
+        - If the person could do it all over, what would the person have done differently?
+    1. The Meetup presentation:
         – Who was the intended audience of the speaker?
         – What was the purpose of the talk?
         – Did the speaker achieve their set-out goal?
@@ -58,7 +58,9 @@ Grading Rubric (10 points)
     - Self aware
     - Not too lenient
     - Not too harsh
-    - Self aware 
+    - Self-aware
+    - Provide specific examples
+    - Long enough to give details and meaningful analysis.
 
 1. Analysis of presentations (3 points)
 
